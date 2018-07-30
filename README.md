@@ -22,9 +22,8 @@ that, it will just return strings.
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/pyvcf-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/pyvcf-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/pyvcf-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/pyvcf-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/pyvcf-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/pyvcf-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pyvcf-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pyvcf-feedstock)
 
 Current release info
 ====================
