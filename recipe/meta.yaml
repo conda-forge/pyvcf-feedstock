@@ -11,8 +11,8 @@ source:
 
 build:
   # do not use noarch: setup.py use_2to3=true
-  number: 1000
-  script: python -m pip install --no-deps --ignore-installed .
+  number: 1001
+  script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 requirements:
   host:
